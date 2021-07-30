@@ -9,7 +9,7 @@ import javax.swing.border.EmptyBorder;
 
 public class PaginaPrincipal extends JFrame {
 	
-	//Hola Mundo
+	
 
 	private JPanel contentPane;
 
