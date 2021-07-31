@@ -9,7 +9,7 @@ import javax.swing.border.EmptyBorder;
 
 public class PaginaPrincipal extends JFrame {
 	
-	//cambios
+	//cambioss
 
 	private JPanel contentPane;
 
